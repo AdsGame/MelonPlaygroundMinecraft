@@ -52,7 +52,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false","link_title": "Download","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
+        "isLink": "true","link_title": "Download","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
         "text": "Dark Meadow : The Pact",
         "isNative": "false"
