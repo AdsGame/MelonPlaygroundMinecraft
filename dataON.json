@@ -20,27 +20,27 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
+        "title": "Melon Playground Mod 1",
         "image": "https://images-11.sosomod.me/attachments/jietu/13/jietu0ee650a565209a7214511aca033c0d0320220711WgRxPC.jpg"
       },
       {
-        "title": "The Old 2",
+        "title": "Melon Playground Mod 2",
         "image": "https://images-11.sosomod.me/attachments/jietu/13/jietu0ee650a565209a7214511aca033c0d0320220711h3aXmC.jpg"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
+        "title": "Melon Playground Mod 3",
         "image": "https://usercontent1.hubstatic.com/6961608.jpg"
       },
       {
-        "title": "Dead Space Android",
+        "title": "Melon Playground Mod 4",
         "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
       },
       {
-        "title": "Bloody Mary",
+        "title": "Melon Playground Mod 5",
         "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
+        "title": "Melon Playground Mod 6",
         "image": "https://usercontent1.hubstatic.com/6961620.jpg"
       }
     ],
@@ -58,7 +58,7 @@
         "isNative": "true"
       },
       {
-        "ordered": "Cube from Geometry Dash for Melon Playground",
+        "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
