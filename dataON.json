@@ -21,7 +21,7 @@
     "items": [
       {
         "title": "Melon Playground Mod 1",
-        "image": "https://images-11.sosomod.me/attachments/jietu/13/jietu0ee650a565209a7214511aca033c0d0320220711WgRxPC.jpg"
+        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/1.png"
       },
       {
         "title": "Melon Playground Mod 2",
@@ -53,7 +53,7 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/1.png",
         "text": "Download Mod",
         "isNative": "true"
       },
