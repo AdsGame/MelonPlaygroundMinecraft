@@ -83,11 +83,11 @@
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
-        "left": "5",
-        "text_size": "25",
+        "left": "10",
+        "text_size": "20",
         "isLink": "true","link_title": "Download","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
         "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "text": "haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
         "isNative": "false"
       }
     ]
